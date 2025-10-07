@@ -1,5 +1,5 @@
 // src/lib/appsScript.ts
-export const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzwXMHIUD4O4vMTkLjJYfSYKANKZeR0xZj3lL9aF2_wdEMZjTiDARmn-kiG6VGc4uWa/exec";
+export const APPS_SCRIPT_URL = "hhttps://script.google.com/macros/s/AKfycbzwXMHIUD4O4vMTkLjJYfSYKANKZeR0xZj3lL9aF2_wdEMZjTiDARmn-kiG6VGc4uWa/exec";
 export const API_KEY = "uMaziNG-4In1-sTore";
 
 async function handleResponse(res: Response) {
